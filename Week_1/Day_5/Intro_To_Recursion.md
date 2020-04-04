@@ -72,3 +72,7 @@ Every recursive function must have a base case and a recursive case.
 Each recursive call should break down the current problem into a smaller, simpler one.
 The recursive calls must eventually reach the smallest version of the problem, the base case.
 The base case is when the problem can be solved without further recursion.
+
+## When to use recursion?
+
+* Being able to identify when the problem you are solving is just a smaller instance of the problem you have already solved will allow you to determine when to use recursion instead of iteration.
