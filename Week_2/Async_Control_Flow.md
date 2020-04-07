@@ -16,3 +16,4 @@
 * My program wont be faster...but it will let my program do each program a little bit at a time. so if one file is big, it can keep reading it and than keep going without blocking the thread
 * The order in which things finish and run are not guarenteed in asynch 
 * You can nest requests so one can guarentee finish times of java threads
+* We call this A synch flow control...
