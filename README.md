@@ -14,5 +14,6 @@ This repository contains all of the notes taken by [Josh Brookstone](https://git
   * [Weekend](/Week_1/Weekend)
 
 * [Week 2](/Week_2)
-  * [Day 2](/Week_2/Day/1)
+  * [Day 1](/Week_2/Day_1)
+  * [Day 2](/Week_2/Day_2)
   
