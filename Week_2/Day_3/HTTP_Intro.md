@@ -66,3 +66,7 @@ Specifically:
 * HTTP requests must contain the verb/method (eg: GET) and the Path (eg: /about)
 * HTTP requests aren't always to receive data, but sometimes to save data, like when we submit a form on a website. This is done via a POST instead of a GET
 * Requests and responses both contain key-value based headers (eg: Accept-Language: fr, Content-Type: text/html, etc.)
+
+## Additional Notes
+
+* HTTP is not alternative to TCP, but rather the text-based 'language that is used to communicate over a TCP connection.
