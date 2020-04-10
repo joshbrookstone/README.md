@@ -71,3 +71,5 @@ app.get('/', (request, response) => {
 in the context of OO, an object is a bundle of info. this info is its state when expressing it. but it also has behavior. this behaviour takes form of methods, which is the name we give to functions when theyre tied to an objects. some methods might modify the object, some methods might ask the object for info.
 
 OO bundles related state and logic into an object that can be apssed around as a single entity.
+
+* OOP uses classes. JS has prototype. which act like classes. in a way, JS mimics the behaviour of class-based or classical OOP languages now.
