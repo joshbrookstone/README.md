@@ -40,3 +40,27 @@ bind FORCES dthe this of talkfunction to BE dog.
 * function is like a sentence that needs to have context
 
 * Unless you use bind. which gives this a specific context relative to a certain context.
+
+## Video 3
+
+* classes were added to JS to kind of replace protoypes becasue poeple were used to classes
+
+* classes implemented ontop of prototypes
+
+* the this in context is whatever is on the left.(hard to explain)
+
+* prototypes are delegates
+  * dont work like classes that make a copy like a blueprint
+
+* prototype is a way of saying: for this object, use this other object as a backup, a deleagate
+
+* if a object doesnt exist, go look at the protoype and find what ive told you to use.
+
+## Video 4 NEW
+
+New creates a new object
+
+Set the prototype - Objet.setPrototypeOf(obj, constructor.prototype)
+Execute the constructor with this
+apply - its like bind but executes its value immediately
+returns the created object
