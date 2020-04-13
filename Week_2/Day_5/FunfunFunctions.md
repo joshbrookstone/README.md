@@ -64,3 +64,35 @@ Set the prototype - Objet.setPrototypeOf(obj, constructor.prototype)
 Execute the constructor with this
 apply - its like bind but executes its value immediately
 returns the created object
+
+## Video 5 Object Creation - What is __prototype__
+
+* set prototype is more like object delegation tahn class inheritance
+
+* __proto__ - this is  reference to the same object we set to the prototype
+
+* objects delegating to other objects
+
+* __proto__ is the object that points out what has been set up
+
+* proototype is set using the NEW keyword
+
+## Video 6 Object.create
+
+* static method that creates a new object with the prototype set to a certain object
+
+* creates a completely fresh object set to the prototype of the object you choose
+
+* they are new objects when created, that are set to a reference of a protoype. and if its not in the object youve created, they will look at the refernce object
+
+* Object.create is more natural than the New keywwork
+
+* set protoype of should not be used in making things. it can slow the function down.
+
+## Video 7 Classes in Object
+
+* classes in js are just syntactic sugar in JS
+
+* JS does not have classes...they fake classes
+
+* a thin layer over prototypal inheritance...
